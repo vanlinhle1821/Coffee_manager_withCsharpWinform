@@ -1,0 +1,77 @@
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.AssemblyReference.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê_Văn_Linh_QuanLyCafeCrambon.Properties.Resources.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.GenerateResource.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.AssemblyInfoInputs.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.AssemblyInfo.cs
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.CoreCompileInputs.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.exe
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.deps.json
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.runtimeconfig.json
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.pdb
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.CopyComplete
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\refint\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.pdb
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê Văn Linh_QuanLyCafeCrambon.genruntimeconfig.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\ref\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net7.0-windows\Lê_Văn_Linh_QuanLyCafeCrambon.fPrintBill.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\GUI\fLogin.cs
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ChartControls.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Design.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\Microsoft.SqlServer.Types.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net7.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll

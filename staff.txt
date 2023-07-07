@@ -1,0 +1,11 @@
+        void AddStaffBinding()
+        {
+            txbStaffID.DataBindings.Add(new Binding("Text", dtgvStaff.DataSource, "ID", true, DataSourceUpdateMode.Never));
+            txbStaffName.DataBindings.Add(new Binding("Text", dtgvStaff.DataSource, "Name", true, DataSourceUpdateMode.Never));
+            dtpkStaffBirth.DataBindings.Add(new Binding("Text", dtgvStaff.DataSource, "DateBirth", true, DataSourceUpdateMode.Never));
+            dtpkStaffWorkIn.DataBindings.Add(new Binding("Text", dtgvStaff.DataSource, "DateWorkIn", true, DataSourceUpdateMode.Never));
+            txbStaffSalary.DataBindings.Add(new Binding("Text", dtgvStaff.DataSource, "Salary", true, DataSourceUpdateMode.Never));
+            txbStaffAddress.DataBindings.Add(new Binding("Text", dtgvStaff.DataSource, "Address", true, DataSourceUpdateMode.Never));
+            txbStaffPhone.DataBindings.Add(new Binding("Text", dtgvStaff.DataSource, "Phonenumber", true, DataSourceUpdateMode.Never));
+
+        }

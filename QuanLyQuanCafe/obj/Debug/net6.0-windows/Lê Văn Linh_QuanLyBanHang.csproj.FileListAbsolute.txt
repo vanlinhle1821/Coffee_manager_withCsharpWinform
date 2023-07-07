@@ -1,0 +1,29 @@
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\fLogin.cs
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.exe
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.deps.json
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.runtimeconfig.json
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.pdb
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.csproj.AssemblyReference.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê_Văn_Linh_QuanLyBanHang.Properties.Resources.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.csproj.GenerateResource.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.AssemblyInfoInputs.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.AssemblyInfo.cs
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.csproj.CopyComplete
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\refint\Lê Văn Linh_QuanLyBanHang.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.pdb
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyBanHang.genruntimeconfig.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\ref\Lê Văn Linh_QuanLyBanHang.dll

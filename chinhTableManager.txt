@@ -1,0 +1,4 @@
+float totalPrice = float.Parse(txbTotalPrice.Text);
+float finalTotalPrice = totalPrice - (totalPrice / 100) * discount;
+
+txbTotalPrice.Text = totalPrice.ToString();

@@ -1,0 +1,58 @@
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\fLogin.cs
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.exe
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.deps.json
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.runtimeconfig.json
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.pdb
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.AssemblyReference.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê_Văn_Linh_QuanLyCafeCrambon.Properties.Resources.resources
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.GenerateResource.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.GeneratedMSBuildEditorConfig.editorconfig
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.AssemblyInfoInputs.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.AssemblyInfo.cs
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.CoreCompileInputs.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.CopyComplete
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\refint\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.pdb
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.genruntimeconfig.cache
+C:\diskD_23122022\ki2nam3\CNNET\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\ref\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\fLogin.cs
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.exe
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.deps.json
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.runtimeconfig.json
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.pdb
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.AssemblyReference.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAdmin.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fLogin.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fTableManager.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê_Văn_Linh_QuanLyCafeCrambon.Properties.Resources.resources
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.GenerateResource.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.GeneratedMSBuildEditorConfig.editorconfig
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.AssemblyInfoInputs.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.AssemblyInfo.cs
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.CoreCompileInputs.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.csproj.CopyComplete
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\refint\Lê Văn Linh_QuanLyCafeCrambon.dll
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.pdb
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\Lê Văn Linh_QuanLyCafeCrambon.genruntimeconfig.cache
+C:\DoAnTotNghiep2023\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\ref\Lê Văn Linh_QuanLyCafeCrambon.dll
